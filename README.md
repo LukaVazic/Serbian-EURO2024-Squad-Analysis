@@ -17,4 +17,8 @@ Data Analysis | Descriptive Analysis | Microsoft Excel Project
 - Data Cleaning (Getting Rid of Blanks and “-“ in Foot Column, Converting Market Value Column to Currency); 
 - Data Analysis (Using Pivot Tables To Answer Questions);
 - Data Visualization (Creating Dashboard using different types of charts);
- 
+
+
+## Dashboard
+
+![Dashboard](Dashboard.png)
